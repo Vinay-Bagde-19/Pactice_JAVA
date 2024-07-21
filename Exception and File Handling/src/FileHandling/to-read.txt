@@ -1,0 +1,4 @@
+This is the file to test the FileReader using the read function.
+I am Vinay Bagde a BCA student,
+Currently Learning JAVA
+this is a test file.
